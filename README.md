@@ -19,7 +19,7 @@ Committed to continuous learning and delivering high-quality code that aligns wi
 
 ## 📌 Featured Project
 
-### 📝 [ToDoListApp](https://github.com/yusufabdhillah/todo-app-kotlin-compose)
+### 📝 [ToDoListApp] (https://github.com/yusufabdhillah/ToDoListApp)
 
 A modern To-Do application developed using Kotlin and Jetpack Compose, designed to demonstrate real-time search, dynamic sorting (A-Z / Z-A), status toggling, and clean UI layout using Material 3.
 
