@@ -3,6 +3,15 @@
 Android Developer with a focus on building clean, efficient, and user-friendly mobile applications using Kotlin and Jetpack Compose.  
 Committed to continuous learning and delivering high-quality code that aligns with industry standards.
 
+Currently open for collaboration with agencies, startups, or enterprise teams — whether full-feature product builds or MVP prototypes.
+
+**I specialize in**:
+- Android app development (Kotlin, Jetpack Compose)
+- UI/UX implementation with Material 3
+- Clean MVVM architecture
+- Local data persistence (Room)
+- REST API integration (Retrofit, Firebase)
+
 ---
 
 ## 🧰 Tech Stack
