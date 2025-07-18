@@ -28,6 +28,16 @@ Currently open for collaboration with agencies, startups, or enterprise teams �
 
 ## 📌 Featured Project
 
+### 📝 [LibraryBookManagerApp](https://github.com/yusufabdhillah/LibraryBookManagerApp)
+
+A simple Android app to manage books, built with **Kotlin**, **OOP**, **Generics**, and **Jetpack Compose**.
+
+**Features:**
+- ✅ Add new book (title, author, pages)
+- 🔍 Search book by title
+- 📅 Live filter on user input
+- 🎨 Clean MVVM-friendly structure
+
 ### 📝 [ToDoListApp](https://github.com/yusufabdhillah/ToDoListApp)
 
 A modern To-Do application developed using Kotlin and Jetpack Compose, designed to demonstrate real-time search, dynamic sorting (A-Z / Z-A), status toggling, and clean UI layout using Material 3.
