@@ -1,9 +1,9 @@
 # 👨‍💻 Yusuf Abdhillah
 
-Android Developer with a focus on building clean, efficient, and user-friendly mobile applications using Kotlin and Jetpack Compose.  
-Committed to continuous learning and delivering high-quality code that aligns with industry standards.
+Android Developer with a focus on building clean, efficient, and user friendly mobile applications using Kotlin and Jetpack Compose.  
+Committed to continuous learning and delivering high quality code that aligns with industry standards.
 
-Currently open for collaboration with agencies, startups, or enterprise teams — whether full-feature product builds or MVP prototypes.
+Currently open for collaboration with agencies, startups, or enterprise teams, whether full feature product builds or MVP prototypes.
 
 **I specialize in**:
 - Android app development (Kotlin, Jetpack Compose)
@@ -36,15 +36,15 @@ A simple Android app to manage books, built with **Kotlin**, **OOP**, **Generics
 - ✅ Add new book (title, author, pages)
 - 🔍 Search book by title
 - 📅 Live filter on user input
-- 🎨 Clean MVVM-friendly structure
+- 🎨 Clean MVVM friendly structure
 
 ### 📝 [ToDoListApp](https://github.com/yusufabdhillah/ToDoListApp)
 
-A modern To-Do application developed using Kotlin and Jetpack Compose, designed to demonstrate real-time search, dynamic sorting (A-Z / Z-A), status toggling, and clean UI layout using Material 3.
+A modern ToDo application developed using Kotlin and Jetpack Compose, designed to demonstrate realtime search, dynamic sorting (A-Z / Z-A), status toggling, and clean UI layout using Material 3.
 
 **Features:**
 - ✅ Add, delete, and mark tasks as completed
-- 🔍 Real-time search functionality
+- 🔍 Realtime search functionality
 - ↕️ Sort tasks alphabetically
 - 📅 Timestamp on item creation
 - 🎨 Visual color indicators based on task status
